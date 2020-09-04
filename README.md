@@ -28,9 +28,8 @@ You need add this dependencies to  pubspec.yaml  file
  
  Latest to adding custom font text, by adding family, name fonts.
 
-
+![Alt text](/ScreenShot/img2.png?raw=true "Optional Title")
 </br>
-![Alt text](/ScreenShot/img1.png?raw=true "Optional Title")
 
 ![Alt text](/ScreenShot/img2.png?raw=true "Optional Title")
 </br>
