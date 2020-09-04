@@ -29,7 +29,19 @@ You need add this dependencies to  pubspec.yaml  file
  Latest to adding custom font text, by adding family, name fonts.
 
 
-![Alt text](/../ScreenShot/img1.png?raw=true "Optional Title")
+
+<div align="row">
+  
+    <img src="/ScreenShot/img1.png" width="400px"</img>                                           
+</div>
+<div class="row" width="50px"></div>
+
+
+
+<div align="center">
+       <img src="/ScreenShot/img2.png" width="400px"></img>                                         
+</div>
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
