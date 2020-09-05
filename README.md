@@ -28,7 +28,7 @@ You need add this dependencies to  pubspec.yaml  file
         - asset: fonts/Cairo-Light.ttf
           weight: 700
           
-          <br>
+         
  
  Latest to adding custom font text, by adding family, name fonts.
 
