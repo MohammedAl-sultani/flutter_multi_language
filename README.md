@@ -20,18 +20,22 @@ You need add this dependencies to  pubspec.yaml  file
     sdk: flutter
     
  - So need to add there to same file:
+ 
+ </br>
  fonts:
     - family: Cairo
       fonts:
         - asset: fonts/Cairo-Light.ttf
           weight: 700
+          
+          </br>
  
  Latest to adding custom font text, by adding family, name fonts.
 
-![Alt text](/ScreenShot/img1.png?raw=true "Optional Title")
+![Alt text](/../ScreenShot/img1.png?raw=true "Optional Title")
 </br>
 
-![Alt text](/ScreenShot/img2.png?raw=true "Optional Title")
+![Alt text](/../ScreenShot/img2.png?raw=true "Optional Title")
 </br>
 
 For help getting started with Flutter, view our
